@@ -1,5 +1,5 @@
 
-import urllib.request
+import request
 
 
 class Employee:
